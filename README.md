@@ -1,5 +1,10 @@
 # project2
 
+## Project Brief
+
+you are creating an application that generates “Objects” upon a set of predefined rules.
+These “Objects” can be from whatever domain you wish.
+
 ## Scope
 
 The requirements set for the project are below.
