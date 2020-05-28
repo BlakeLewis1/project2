@@ -1,6 +1,6 @@
 # project2
 
-##Project Tracking
+## Project Tracking
 
 One of the first things I created for this project was the asana board that I was required to create this helped me structure the project.
 
