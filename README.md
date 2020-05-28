@@ -1,5 +1,9 @@
 # project2
 
-One of the fiest things i created for this project was the asana board that i was required to create this helped me structure what i was doing for the project.
+##Project Tracking
 
-[asana](https://app.asana.com/0/1177662633721905/board)
+One of the first things I created for this project was the asana board that I was required to create this helped me structure the project.
+
+[Asana](https://app.asana.com/0/1177662633721905/board)
+
+
