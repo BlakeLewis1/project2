@@ -27,6 +27,22 @@ The requirements of the project are as follows:
 
 One of the first things I created for this project was the asana board that I was required to create this helped me structure the project.
 
-[Asana](https://app.asana.com/0/1177662633721905/board)
+[Asana](https://app.asana.com/0/1177662633721905/board) 
+
+## Architecture 
+
+* Kanban Board: Asana or an equivalent Kanban Board
+
+* Version Control: Git
+
+* CI Server: Jenkins
+
+* Configuration Management: Ansible
+
+* Cloud server: GCP virtual machines
+
+* Containerisation: Docker
+
+* Orchestration Tool: Docker Swarm
 
 
